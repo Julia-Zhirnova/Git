@@ -1,0 +1,15 @@
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.csproj.AssemblyReference.cache
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\App.g.cs
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company_MarkupCompile.cache
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\bin\Debug\Name_of_company.exe.config
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\bin\Debug\Name_of_company.exe
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\bin\Debug\Name_of_company.pdb
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\MainWindow.g.cs
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company_MarkupCompile.lref
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\MainWindow.baml
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.g.resources
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.Properties.Resources.resources
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.csproj.GenerateResource.cache
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.csproj.CoreCompileInputs.cache
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.exe
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.pdb
