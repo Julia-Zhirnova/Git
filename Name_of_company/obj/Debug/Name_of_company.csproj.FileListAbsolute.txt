@@ -13,3 +13,7 @@ C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_co
 C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.csproj.CoreCompileInputs.cache
 C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.exe
 C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Name_of_company.pdb
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Otrasl.g.cs
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Otrasl.baml
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Instrument.g.cs
+C:\Users\303-0\source\repos\Name_of_company\Name_of_company\obj\Debug\Instrument.baml

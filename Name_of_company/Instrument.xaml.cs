@@ -16,25 +16,13 @@ using System.Windows.Shapes;
 namespace Name_of_company
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Instrument.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Instrument : Page
     {
-        public MainWindow()
+        public Instrument()
         {
             InitializeComponent();
-            
-        }
-
-        private void Btn_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Otrasl());
-         
-        }
-
-        private void BtnInstr_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Instrument());
         }
     }
 }

@@ -11,10 +11,23 @@
             <ColumnDefinition Width="150"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <Grid Grid.Column="0" Background="Aqua"></Grid>
-        <Grid Grid.Column="1" Background="Black"></Grid>
-        <Image x:Name="осень2_jpg" Grid.Column="0" Source="осень2.jpg" VerticalAlignment="Center"/>
+        
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Text"></Label>
+                <Grid Background="Green" Height="15" VerticalAlignment="Bottom" Margin="10"></Grid>
+               
+                <Frame Grid.Row="1" x:Name="MainFrame" ></Frame>
+            </Grid>
+        
+        <Grid Grid.Column="0" Background="Aqua"></Grid>        
+        <Image x:Name="осень2_jpg" Grid.Column="0" Source="осень2.jpg" VerticalAlignment="Top"/>
         <TextBlock > Название компании </TextBlock>
-        <Label Grid.Column="1" Foreground="White"  > Название компании </Label>
+        <Button Click="Btn_Click" Height="25" Background="White"> Это кнопка </Button>
+        <Button Click="BtnInstr_Click" Height="25" Background="White">Инструменты</Button>
+
     </Grid>
 </Window>
