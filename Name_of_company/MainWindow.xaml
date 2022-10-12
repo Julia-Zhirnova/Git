@@ -14,7 +14,6 @@
         <Grid Grid.Column="0" Background="Aqua"></Grid>
         <Grid Grid.Column="1" Background="Black"></Grid>
         <Image x:Name="осень2_jpg" Grid.Column="0" Source="осень2.jpg" VerticalAlignment="Center"/>
-        <TextBlock > Название компании </TextBlock>
         <Label Grid.Column="1" Foreground="White"  > Название компании </Label>
     </Grid>
 </Window>
